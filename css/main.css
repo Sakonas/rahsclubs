@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Courgette|Work+Sans");
 
 html, body {
-  background-color: palegreen;
+  background-color: #FFFFFF;
   margin: 0;
   max-width: 100vw;
 }
@@ -43,7 +43,7 @@ header {
   margin: 0;
   padding-top: 20px;
   padding-bottom: 40px;
-  background-color: #28B463;
+  background-color: #EEEAE0;
   box-shadow: 0px 5px 5px grey;
   z-index: 2;
 } header > h1 {
@@ -145,7 +145,7 @@ footer {
   right: 100%;
   bottom: 0;
   width: 100%;
-  background: #7ab893;
+  background: #283B04;
   z-index: -1;
   transform: translate(0);
   transition: all 0.3s ease-in-out;
